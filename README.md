@@ -10,4 +10,4 @@ This text is <em><strong>really important</strong></em>.
   <li>c</li>
   <li>d</li>
 </ol>
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
