@@ -1,21 +1,25 @@
-# BASIC UNIX COMMANDS PRACTISE OUTPUT
+# AIM : PRACTICE OF BASIC UNIX COMMANDS
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](mdate.png)
+### DATE DATE COMMAND OUTPUT
+![date date command output](date1.png)
+### DATE DATE COMMAND MANUAL
+![date date command manual](mdate.png)
 ### DATE TIME COMMAND OUTPUT
-![date time command output](date1.png)
-### DATE TIME COMMAND MANUAL
-![date time command manual](mdate1.png)
-### DATE YEAR COMMAND OUTPUT
-![date year command output](date2.png)
+![date time command output](date2.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](mdate2.png)
+![date year command manual](mdate.png)
+### DATE YEAR COMMAND OUTPUT
+![date year command output](date3.png)
+### DATE YEAR COMMAND MANUAL
+![date year command manual](mdate.png)
 ### DATE HOUR COMMAND OUTPUT
-![date hour command output](date3.png)
+![date hour command output](date4.png)
 ### DATE HOUR COMMAND MANUAL
-![date hour command manual](mdate3.png)
+![date hour command manual](mdate.png)
 ### CAL COMMAND OUTPUT
 ![cal command output](cal.png)
 ### CAL COMMAND MANUAL
@@ -35,7 +39,7 @@
 ### WHO AM I COMMAND OUTPUT 
 ![who am i command output](whoami.png)
 ### WHO AM I COMMAND MANUAL
-![who am i command manual](mwhoami.png)
+![who am i command manual](mwho.png)
 ### TTY COMMAND OUTPUT -TERMINAL NAME-
 ![tty command output](tty.png)
 ### TTY COMMAND MANUAL
@@ -47,26 +51,23 @@
 ### UNAME-R COMMAND OUTPUT
 ![uname-r command output](uname1.png)
 ### UNAME-R COMMAND MANUAL
-![uname-r command manual](muname1.png)
+![uname-r command manual](muname.png)
 ### UNAME-N COMMAND OUTPUT
-![uname-n command output](uname2.png)
+![uname-n command output](unamen.png)
 ### UNAME-N COMMAND MANUAL
-![uname-n command manual](muname2.png)
+![uname-n command manual](muname.png)
 ### ECHO COMMAND OUTPUT
 ![echo command output](echo.png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
 ### ECHO $ COMMAND OUTPUT
-![echo $ command output](echo1.png)
+![echo $ command output](echohome.png)
 ### ECHO $ COMMAND MANUAL 
-![echo $ command manual](mecho1.png)
+![echo $ command manual](mecho.png)
 ### BC - BASIC CALCULATOR COMMAND OUTPUT
 ![bc command output](bc.png)
 ### BC - BASIC CALCULATOR COMMAND MANUAL
 ![bc command manual](mbc.png)
-## IP FILE COMMANDS
-### MAN COMMONAD OUTPUT
-![example using man command](mecho1.png)
 ### HISTORY COMMAND OUTPUT
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
@@ -91,7 +92,7 @@
 ### CD .. COMMAND OUTPUT
 ![cd .. command output](cd1.png)
 ### CD .. COMMAND MANUAL
-![cd .. command manual](mcd1.png)
+![cd .. command manual](mcd.png)
 ### RMDIR COMMAND OUTPUT
 ![rmdir command output](rmdir.png)
 ### RMDIR COMMAND MANUAL
@@ -102,7 +103,7 @@
 ### CAT COMMAND MANUAL
 ![cat command manual](mcat.png)
 ### CAT >> COMMAND OUTPUT
-![cat >> command output](cat2.png)
+![cat >> command output](cat_.png)
 ### CAT >> COMMAND MANUAL 
 ![cat >> command manual](mcat.png)
 ### CP COMMAND OUTPUT
@@ -169,12 +170,10 @@
 ![cmp command output](cmp.png)
 ### CMP COMMAND MANUAL
 ![cmp command manual](mcmp.png)
-### CHMOD COMMAND OUTPUT
-![chmod command output](chmod.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](mchmod.png)
 
 
 
 
-# The Study And Execution Of Unix Commands Has Been Completed Successfully.
+#CONCLUSION: The Study And Execution Of Unix Commands Has Been Completed Successfully.
