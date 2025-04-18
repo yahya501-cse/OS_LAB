@@ -181,4 +181,5 @@ In short, the program shows how to interact with files and directories in a Unix
 > `./exec-name`
 > 
 # Output of the code
-![ Program output in console]https://1drv.ms/i/c/0961c3d020492bfb/EeghjYIIwepCluwmv374kHgBxDzcG-Xm6Y_-0bY_rxA5gA?e=WAgxz5
+![ Program output in console]https://1drv.ms/i/c/0961c3d020492bfb/EeghjYIIwepCluwmv374kHgBxDzcG-Xm6Y_-0bY_rxA5gA?e=WAgxz5![WhatsApp Image 2025-04-18 at 17 49 23_1ca96b12](https://github.com/user-attachments/assets/d6c74cb9-18c3-44f2-9782-0b4114d40ef4)
+
